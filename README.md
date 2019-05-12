@@ -1,2 +1,3 @@
 # siri-shortcuts
-A collection of Siri shortcuts
+
+A collection of useful Siri shortcuts.
