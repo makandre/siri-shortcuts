@@ -1,6 +1,26 @@
 {
-  "Translate Text": {
-    "version": "1.2",
-    "url": "https://github.com/makandre/siri-shortcuts/raw/master/Translate%20Text/Translate%20Text.shortcut"
-  }
+    "Media Downloader": {
+        "version": "1.3",
+        "url": "https://github.com/makandre/siri-shortcuts/raw/master/Media%20Downloader/Media%20Downloader.shortcut"
+    },
+    "YouTube Downloader": {
+        "version": "1.2",
+        "url": "https://github.com/makandre/siri-shortcuts/raw/master/Media%20Downloader/YouTube%20Downloader.shortcut"
+    },
+    "Facebook Downloader": {
+        "version": "1.2",
+        "url": "https://github.com/makandre/siri-shortcuts/raw/master/Media%20Downloader/Facebook%20Downloader.shortcut"
+    },
+    "Twitter Downloader": {
+        "version": "1.2",
+        "url": "https://github.com/makandre/siri-shortcuts/raw/master/Media%20Downloader/Twitter%20Downloader.shortcut"
+    },
+    "Content Downloader": {
+        "version": "1.2",
+        "url": "https://github.com/makandre/siri-shortcuts/raw/master/Media%20Downloader/Content%20Downloader.shortcut"
+    },
+    "Translate Text": {
+        "version": "1.2",
+        "url": "https://github.com/makandre/siri-shortcuts/raw/master/Translate%20Text/Translate%20Text.shortcut"
+    }
 }
