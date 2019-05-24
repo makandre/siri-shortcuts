@@ -7,7 +7,7 @@ It is also possible to share another json file to this shortcut and it will be r
 ```json
 {
     "name of shortcut": {
-        "url: "link to shortcut"
+        "url": "link to shortcut"
     }
 }
 ```
