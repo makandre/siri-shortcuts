@@ -9,7 +9,7 @@ The shortcut will now use separate downloader shortcuts to download media from d
 - [Twitter](Twitter%20Downloader.shortcut) - based on this [shortcut](https://www.icloud.com/shortcuts/e5f06ab2d11c4837adc40944900f6ca8) created by u/freelancedev_ [here](https://www.reddit.com/r/shortcuts/comments/9o0qxb/twitter_video_downloader_v15)
 - [Other](Content%20Downloader.shortcut) - a catch-all option to download the contents of the input URL directly (for example, use this option with the [YouTube To MP3](../YouTube%20To%20MP3) shortcut)
 
-Additionally, with the exception of the `Other` option, you will be able to save the downloaded file as audio as well.
+After downloading the file, you will also have the option to convert it to M4A audio format (if applicable).
 
 If you want to use the downloaders on their own, you will need to do the following:
 
