@@ -20,13 +20,11 @@ If you want to use the downloaders on their own, you will need to do the followi
 
 ## When It Doesn't Work...
 
-Sometimes the Media Downloader (more specifically the YouTube Downloader) doesn't work on a particular YouTube video, you can try the following workarounds:
+Sometimes the Media Downloader (more specifically the YouTube Downloader) doesn't work on a particular YouTube video.  If all you want is the audio, you can try the aforementioned [YouTube To MP3](../YouTube%20To%20MP3) shortcut with the `Other` option.
 
-- If all you want is the audio, you can try the aforementioned [YouTube To MP3](../YouTube%20To%20MP3) shortcut with the `Other` option
+For video, try this workaround:
 
-- For video:
-
-  1. If not in Safari, first use the [Open In Safari](../Miscellaneous/Open%20In%20Safari.shortcut) shortcut to open the video in Safari
-  2. Use the [Background YouTube](../Miscellaneous/Background%20YouTube.shortcut) shortcut, which stops the video.  When you resume it and it will start playing in a full screen playback window
-  3. Press `X` on the upper left to close the playback window
-  4. Now share the video to the Media Downloader shortcut and use the `Other` option to capture it
+1. If not in Safari, first use the [Open In Safari](../Miscellaneous/Open%20In%20Safari.shortcut) shortcut to open the video in Safari
+2. Use the [Background YouTube](../Miscellaneous/Background%20YouTube.shortcut) shortcut, which stops the video.  When you resume it and it will start playing in a full screen playback window
+3. Press `X` on the upper left to close the playback window
+4. Now share the video to the Media Downloader shortcut and use the `Other` option to capture it
