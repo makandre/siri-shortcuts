@@ -11,7 +11,22 @@ The shortcut will now use separate downloader shortcuts to download media from d
 
 After downloading the file, you will also have the option to convert it to M4A audio format (if applicable).
 
+## Run Individual Downloader Shortcuts
+
 If you want to use the downloaders on their own, you will need to do the following:
 
 1. Re-enable showing the shortcut in the Share Sheet and choose URL as the input type
 2. Add a final step to save or share the downloaded file
+
+## When It Doesn't Work...
+
+Sometimes the Media Downloader (more specifically the YouTube Downloader) doesn't work on a particular YouTube video, you can try the following workarounds:
+
+- If all you want is the audio, you can try the aforementioned [YouTube To MP3](../YouTube%20To%20MP3) shortcut with the `Other` option
+
+- For video:
+
+  1. If not in Safari, first use the [Open In Safari](../Miscellaneous/Open%20In%20Safari.shortcut) shortcut to open the video in Safari
+  2. Use the [Background YouTube](../Miscellaneous/Background%20YouTube.shortcut) shortcut, which stops the video.  When you resume it and it will start playing in a full screen playback window
+  3. Press `X` on the upper left to close the playback window
+  4. Now share the video to the Media Downloader shortcut and use the `Other` option to capture it
